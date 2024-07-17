@@ -2,8 +2,8 @@
 
 .envelope {
     position: relative;
-    width: 600px;
-    height: 400px;
+    width: 700px;
+    height: 450px;
     margin: 50px auto;
     cursor: pointer;
     perspective: 1000px;
@@ -52,7 +52,7 @@
     font-family: "Sedan", serif;
     font-weight: 400;
     font-style: normal;
-    font-size: 20px;
+    font-size: 10px;
     padding: 20px;
     box-sizing: border-box;
     text-align: justify;
