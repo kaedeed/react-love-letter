@@ -1,4 +1,4 @@
-# Propose your GF/BF using React Love Letter
+# Wish your friends with a letter
 
 Developed by [Madhu Korada](https://www.instagram.com/d_a_r_l_i_n_g_001/)
 Website Link: [Click Here](https://react-love-letter.vercel.app)
